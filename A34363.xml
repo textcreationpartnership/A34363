@@ -1,0 +1,525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The conspiracy of Aeneas &amp; Antenor against the state of Troy a poem.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34363</idno>
+            <idno type="STC">Wing C5933</idno>
+            <idno type="STC">ESTC R18991</idno>
+            <idno type="EEBO-CITATION">11751838</idno>
+            <idno type="OCLC">ocm 11751838</idno>
+            <idno type="VID">48604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34363)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48604)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 486:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The conspiracy of Aeneas &amp; Antenor against the state of Troy a poem.</title>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Spicer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire upon the Duke of York, afterwards King James II, and A.A. Cooper, 1st Earl of Shaftesbury.-- cf. BM</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48604:1"/>
+            <pb facs="tcp:48604:1"/>
+            <p>THE CONSPIRACY OF AENEAS &amp; ANTENOR Againſt the <hi>State of Troy.</hi> A POEM.</p>
+            <p>
+               <hi>L<g ref="char:V">Ʋ</g>CIAN,</hi> The Cock or Dream,</p>
+            <p>He has his thoughts buſied about his Son Who is unworthy to ſucceed him, or his Brother that raiſes Troops privately and makes Creatures underhand.</p>
+            <p>LONDON, Printed for <hi>John Spicer,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:48604:2"/>
+            <pb n="3" facs="tcp:48604:2"/>
+            <head>THE CONSPIRACY OF AENEAS and ANTENOR Againſt the <hi>State of Troy, &amp;c.</hi>
+            </head>
+            <lg type="verse_paragraph">
+               <l>LOng time had <hi>Troy</hi> through various Tumults paſt;</l>
+               <l>And War laid all her Habitations waſt,</l>
+               <l>A Holy War! for the pretended cauſe</l>
+               <l>Was, as 'tis ſtill; Religion and the Laws,</l>
+               <l>'Twas ſaid the King when he receiv'd his Crown,</l>
+               <l>Did Bargain with the Gods to Guard his Town;</l>
+               <pb n="4" facs="tcp:48604:3"/>
+               <l>And's People claim'd his Coronation-Oath,</l>
+               <l>But as 'twas wiſpered then, he broke 'um both:</l>
+               <l>His Subjects might not their own right diſpute;</l>
+               <l>His Empire was from Heaven and abſolute;</l>
+               <l>Wherefore th' avenging Gods more angry grown,</l>
+               <l>Eſpous'd the cauſe, and made it all their own:</l>
+               <l>They drove their own Anointed to diſtreſs,</l>
+               <l>And Crown'd a Rebel-Army with ſucceſs:</l>
+               <l>At length the King at his own Gate being ſlain,</l>
+               <l>And all the <hi>Trojan Towers</hi> Rebuilt again;</l>
+               <l>
+                  <hi>Priam</hi> by Right and Merit claims the Throne;</l>
+               <l>
+                  <hi>Priam</hi> though young, yet mighty in renown;</l>
+               <l>For none with greater Courage in the war</l>
+               <l>Againſt <hi>Alcides</hi> Boſom broke his Spear:</l>
+               <l>Thrice through their Ranks his Paſſage he'd have forc'd,</l>
+               <l>But being but young, as many time unhors'd:</l>
+               <pb n="5" facs="tcp:48604:3"/>
+               <l>Had half his Army half his Courage ſhown,</l>
+               <l>
+                  <hi>Laomedon</hi> till now had kept his Crown.</l>
+               <l>A happy King in ſuch a Sons defence,</l>
+               <l>And happy he in being ſtill but Prince.</l>
+               <l>Never did King at ſuch advantage riſe,</l>
+               <l>Known to be Gracious and reputed Wiſe,</l>
+               <l>Born on his Subjects Love, and big with Fate,</l>
+               <l>Suppos'd the only means to fix the State;</l>
+               <l>His friendſhip by each neighbouring Prince embrac'd</l>
+               <l>And every Subject bleſt Him as he paſſ'd;</l>
+               <l>Whoſe ev'ry Purſe ſo freely he might uſe,</l>
+               <l>His own Eſtate was thought ſuperfluous;</l>
+               <l>With which he all his Enemies regain'd,</l>
+               <l>And with a Golden ſhower enrich't his Land;</l>
+               <l>Thus did he Reign near thirty years in Peace,</l>
+               <l>And ſaw his Line to fifty Sons encreaſe.</l>
+               <pb n="6" facs="tcp:48604:4"/>
+               <l>All which did promiſe wonders in their Youth,</l>
+               <l>But in Phyſiognomy there is no truth.</l>
+               <l>For al deceiv'd his hopes but only one,</l>
+               <l>The God-like <hi>Hector,</hi> his brave eldeſt Son.</l>
+               <l>
+                  <hi>Hector</hi> his Fathers Joy, and Countries Pride,</l>
+               <l>And to whoſe Sword the Fate of <hi>Troy</hi> was ty'd;</l>
+               <l>When any State did any Monarch brave,</l>
+               <l>The proudeſt Tyrant <hi>Hector</hi>'s Aid would Crave:</l>
+               <lg type="triplet">
+                  <l>But when too far his Victories did run,</l>
+                  <l>
+                     <hi>Priam</hi> did only Countermand his Son,</l>
+                  <l>And ſtrait he ſpew'd up all that he had won;</l>
+               </lg>
+               <lg type="triplet">
+                  <l>So when the Zealous Multitude that dwelt</l>
+                  <l>Beyond <hi>Scamander</hi>'s bounding ſtream rebell'd,</l>
+                  <l>By <hi>Hectors</hi> hand they eaſily were quell'd;</l>
+               </lg>
+               <l>Who then in ſilent <hi>Triumph,</hi> big with Fame,</l>
+               <l>Like <hi>Phoebus</hi> to his Fathers Arms he came;</l>
+               <pb n="7" facs="tcp:48604:4"/>
+               <l>Having reſtor'd his Heaven to its Peace;</l>
+            </lg>
+            <lg type="verse_paragraph">
+               <l>But ſee a fatal <hi>Helen</hi> ſails from <hi>Greece;</hi>
+               </l>
+               <l>Who ſhall betray your Councels to her Lord,</l>
+               <l>And from their Head remove your truſty Sword:</l>
+               <l>See how the Neighbouring Potentates Conſpire,</l>
+               <l>And <hi>Chalchas</hi> holy Zeal blows up the Fire:</l>
+               <l>
+                  <hi>Chalchas,</hi> th'eternal Foe of <hi>Ilium</hi>'s State,</l>
+               <l>By Prieſts-Succeſſion does derive his hate;</l>
+               <l>He makes all Heaven his Pious Cauſe Eſpouſe,</l>
+               <l>And arms more War-like-Saints then <hi>Atlas</hi> knows;</l>
+               <l>But arm them all, their own Created Shrines</l>
+               <l>While the <hi>Palladium</hi> in our Temples ſhines,</l>
+               <l>Which does from Heaven its Pedigree derive,</l>
+               <l>The greateſt Bleſſing <hi>Jove</hi> himſelf could give;</l>
+               <l>A Guard ſufficient if all others fail;</l>
+               <l>'Gainſt which e'en Hell its ſelf ſhall ne're prevail:</l>
+               <pb n="8" facs="tcp:48604:5"/>
+               <l>
+                  <hi>Jove</hi> from his Mount beholds you toyl in vain,</l>
+               <l>And laughs at all the empty tricks of man:</l>
+               <l>He lets you fight to work his own decree;</l>
+               <l>For theſe thou kill'ſt had dy'd in ſpight of thee.</l>
+               <l>At our expence the <hi>Grecian</hi> valour try,</l>
+               <l>And by their Swords a thouſand <hi>Trojans</hi> dye;</l>
+               <l>
+                  <hi>Ten</hi> thouſand <hi>Greeks</hi> lie ſcattered o're the Strand,</l>
+               <l>And with their Blood enrich a hoſtile Land;</l>
+               <l>But <hi>Priam</hi> when the War came on a pace,</l>
+               <l>Diſpatcht his darling <hi>Polydore</hi> to <hi>Thrace,</hi>
+               </l>
+               <l>And with him a prodigious Sum did ſend;</l>
+               <l>No greater errour did this King attend,</l>
+               <l>Than looking on that <hi>Tyrant</hi> as his friend,</l>
+               <l>Who, when the fate of <hi>Troy</hi> ſhall backward run,</l>
+               <l>And <hi>Priams</hi> Family be quit undone,</l>
+               <pb n="9" facs="tcp:48604:5"/>
+               <l>Shall ſeize the Treaſure when the brat is ſlain,</l>
+               <l>While the poor Bitch his Mother howls in vain.</l>
+            </lg>
+            <lg type="verse_paragraph">
+               <l>
+                  <hi>Priam</hi> cries out haſt to the Seas and burn</l>
+               <l>Their thouſand Ships, the hopes of their return;</l>
+               <l>For this Important Action on the Foes,</l>
+               <l>
+                  <hi>Aeneas</hi> and <hi>Sarpedon</hi> heads were chooſe:</l>
+               <l>The proud <hi>Aeneas,</hi> though in Perſon Mean,</l>
+               <l>All grant his Mother was the <hi>Cyprean</hi> Queen;</l>
+               <l>But when her Husband from <hi>Tydides</hi> fled,</l>
+               <l>The Lord <hi>Anchiſes</hi> ſlipt into his bed:</l>
+               <l>This mother did his credulous Youth abuſe,</l>
+               <l>And baneful Doctrines in his Soul infuſe;</l>
+               <l>In his opinions obſtinate and bold,</l>
+               <l>To ſave all <hi>Troy</hi> he would not quit his hold,</l>
+               <l>When he ſo pleas'd; for high Employments fit;</l>
+               <l>For grant him Courage though you doubt his Wit.</l>
+               <l>Strict and ſevere as all his Creatures know;</l>
+               <l>Then he's a heart that ne're forgave a foe:</l>
+               <l>To Love has been a Martyr o're and o're;</l>
+               <l>Then whom none knew ſo much, none ſuffer'd more,</l>
+               <pb n="10" facs="tcp:48604:6"/>
+               <l>But when his <hi>Wife Creuſa</hi> did expire,</l>
+               <l>What pity 'twas ſhe periſh't in the fire,</l>
+               <l>And leſt the Prince ſhould pine away with grief,</l>
+               <l>Th' Oraculous Prieſt afforded this Relief;</l>
+               <l>Ne're wet your eyes for what you've Left behind,</l>
+               <l>For Mightier things, and Nobler beds deſign'd;</l>
+               <l>The fair <hi>Lavinia</hi> to your Arms I'le bring,</l>
+               <l>And by her Intereſt make you more then King;</l>
+               <l>Pleas'd and aſtoniſht he could nothing ſay,</l>
+               <l>In expectation of the happy Day.</l>
+            </lg>
+            <lg type="verse_paragraph">
+               <lg type="triplet">
+                  <l>This was the Chief, <hi>Sarpedon</hi> by his ſide,</l>
+                  <l>A <hi>Lyrian</hi> Prince, but near to <hi>Troy</hi> ally'd;</l>
+                  <l>For <hi>Ilus</hi> Daughter was his Fathers Bride;</l>
+               </lg>
+               <l>Unfortunately brave, a wondrous Man,</l>
+               <l>Who if he loſt the day, did honour gain:</l>
+               <l>No ſoul more true, no native Subject draws</l>
+               <l>A truſtier Sword in injur'd <hi>Priam</hi>'s Cauſe.</l>
+               <l>Theſe chiefs the <hi>Trojans</hi> eagerly obey,</l>
+               <l>And through the <hi>Greeks</hi> with ſlaughter force their way</l>
+               <pb n="11" facs="tcp:48604:6"/>
+               <lg type="triplet">
+                  <l>Who from th'unequal Combat do retire,</l>
+                  <l>And periſh in the Waves to ſhun the Fire;</l>
+                  <l>Two different Gods their ruine do conſpire,</l>
+               </lg>
+               <l>Immortal Honour did the Leaders gain,</l>
+               <l>
+                  <hi>Ajax</hi> being fled, and great <hi>Patroclus</hi> ſlain,</l>
+               <l>Seldom before could <hi>Trojan</hi> Armies boaſt,</l>
+               <l>So great a Conqueſt, with ſo little coſt;</l>
+               <l>But that it pleas'd the Rulers of the deep,</l>
+               <l>Juſt in the nick <hi>Aeneas</hi> fell aſleep;</l>
+               <l>The <hi>Grecians</hi> finding now that vain was force,</l>
+               <l>To Plots and Strategems they take recourſe;</l>
+               <l>
+                  <hi>Calchas</hi> crys out all other means are vain;</l>
+               <l>But kill the King, and hinder <hi>Hector</hi>'s reign:</l>
+               <lg type="triplet">
+                  <l>Steal the <hi>Palladium</hi> from 'um, and beat down</l>
+                  <l>The curſt Religion that defends the Town,</l>
+                  <l>And in it's ſtead we'l introduce our own:</l>
+               </lg>
+               <l>We'l tell 'um that the Deity's the ſame,</l>
+               <l>And only differs in the form and name;</l>
+               <l>And <hi>Pallas</hi> (ſo ſhe pleas'd her ſelf) is grown</l>
+               <l>A Horſe by <hi>Tranſubſtantiation:</hi>
+               </l>
+               <pb n="12" facs="tcp:48604:7"/>
+               <l>The Management of which we will Commit</l>
+               <l>To <hi>Diomed</hi>'s valour and <hi>Uliſſes</hi> wit;</l>
+               <l>T' <hi>Aeneas</hi> ſtraight <hi>Uliſſe</hi>'s does repair,</l>
+               <l>And with this pleaſing Muſick Charms his Ear;</l>
+               <l>Illuſtrious Prince, great e'en by Birth deſign'd,</l>
+               <l>Which yet is far inferiour to thy mind;</l>
+               <l>Conſult the Gods; th'art deſtin'd to enjoy</l>
+               <l>Scepters and Crowns (perhaps) though not in <hi>Troy</hi>
+               </l>
+               <l>
+                  <hi>Apollo</hi> ſpeaks Stupendious things to come,</l>
+               <l>An abſolute Empire, and a Spiritual <hi>Rome;</hi>
+               </l>
+               <l>Which ſhall extend her Sway to that Degree,</l>
+               <l>That <hi>Phrigia</hi> ſhall a petty Province be;</l>
+               <l>And what you value more, than all beſide,</l>
+               <l>When you are Rotten, you'l be Deifi'd;</l>
+               <l>Let <hi>Troy</hi> then fall that does your Fate Controul,</l>
+               <l>And with the Name of Country Checks your Soul:</l>
+               <l>Let <hi>Priam</hi> dye, and let <hi>Palladium</hi> go;</l>
+               <l>To other Gods your Empire you muſt owe:</l>
+               <l>So great a worth as yours may well diſdain</l>
+               <l>To live in <hi>Troy,</hi> and but the ſecond Man;</l>
+               <pb n="13" facs="tcp:48604:7"/>
+               <l>And if you find any Reſiſtance made,</l>
+               <l>Call in the <hi>Grecian</hi> Army to your Aid;</l>
+               <l>You freely ſhall command th'united powers;</l>
+               <l>Return but <hi>Hellen,</hi> all the reſt be yours:</l>
+               <l>But as a Caution that you will be Juſt,</l>
+               <l>Only reſign <hi>Palladium</hi> to our truſt:</l>
+               <l>We'l Conſtitute new God-heads in her place,</l>
+               <l>While nobler Images your <hi>Temples</hi> Grace;</l>
+               <l>Well then, ſays he; truſt to—and there he nods;</l>
+               <l>At firſt Encounter he deſerts his Gods;</l>
+               <l>And then what Arguments can Reaſon bring,</l>
+               <l>To think He'l ere be faithful to the King.</l>
+               <l>The Foes diſguis'd, to 'th <hi>Temple</hi> he conveys,</l>
+               <l>And to their hands the Guardian God betrays:</l>
+               <l>They ſtrait retire, made happy by his Crime,</l>
+               <l>And more than all their Arms depend on him.</l>
+            </lg>
+            <lg type="verse_paragraph">
+               <l>Juſt at this time <hi>Antenor</hi> in diſgrace,</l>
+               <l>(For at the <hi>Councel-Board</hi> he loſt his place)</l>
+               <l>Sits in his Cloſet in a penſive mood,</l>
+               <l>Juſt come from haranguing the Multitude,</l>
+               <pb n="14" facs="tcp:48604:8"/>
+               <l>A thouſand projects forming in his mind,</l>
+               <l>All for the change of Government deſign'd;</l>
+               <l>Sometimes a making leſs unequal Laws,</l>
+               <l>Or ſeeking New Aſſociates to his Cauſe;</l>
+               <l>Sometimes he damns his Politicks, that muſt</l>
+               <l>Depend upon the croud, he dares not truſt;</l>
+               <l>Then ſeeks what Nobler Youths he can enſnare,</l>
+               <l>And make them in his deſperate fortune ſhare:</l>
+               <l>He needs no Motives to incite his rage,</l>
+               <l>Hopes of revenge does ev'n revive his age;</l>
+               <l>Nor will he any Foreign Force employ,</l>
+               <l>But make the <hi>Trojans</hi> their own ſelves deſtroy:</l>
+               <l>The ſpatious Name of Patriot he aſſumes,</l>
+               <l>And Mutiny with Liberty perfumes;</l>
+               <l>He envys <hi>Priam's</hi> Reign, and doubts his Right:</l>
+               <l>For all Dominion he does found in might:</l>
+               <l>He has conſulted Wizards, and does find</l>
+               <l>A Commonwealth is to his Fate deſign'd:</l>
+               <l>Big with the hopes, he claims that Tract of Land,</l>
+               <l>Where <hi>Venice-Towers</hi> in time to come ſhall ſtand.</l>
+            </lg>
+            <lg type="verse_paragraph">
+               <pb n="15" facs="tcp:48604:8"/>
+               <l>Long time ere this in Flames had <hi>Troy</hi> expir'd,</l>
+               <l>If either Faction had been ſingly fir'd;</l>
+               <l>
+                  <hi>Antenor</hi> now was zealouſly oppos'd,</l>
+               <l>Who hates <hi>Aeneas,</hi> and no hate was loſt:</l>
+               <l>As when two different poyſons you inſtil</l>
+               <l>In Men, though one correct the others Ill;</l>
+               <l>So that no Death immediately enſues,</l>
+               <l>Yet ſtill the Body natural weaker grows:</l>
+               <l>Add to all this the Potent Foe without,</l>
+               <l>Who earneſtly both Factions does promote;</l>
+               <l>Conſider <hi>Priam</hi> aged and forlorn,</l>
+               <l>And <hi>Hector</hi> from his Fathers boſom torn:</l>
+               <l>While <hi>Pandarus</hi> and <hi>Paris</hi> rule the Court,</l>
+               <l>And <hi>Hellenus</hi> with <hi>Ellena</hi> doth ſport,</l>
+               <l>VVhile <hi>Labienus</hi> is in Arms prefer'd,</l>
+               <l>And <hi>Troilus,</hi> the Chit, commands the Guard.</l>
+            </lg>
+            <lg type="verse_paragraph">
+               <l>See on the ſhore a wondrous Machine riſe,</l>
+               <l>And they pretend a Deities Advice;</l>
+               <l>Erected with prodigious pains and coft,</l>
+               <l>In ſatisfaction for <hi>Palladium</hi> loſt;</l>
+               <pb n="16" facs="tcp:48604:9"/>
+               <l>A wondrous God indeed, which <hi>Chalcas</hi> fills,</l>
+               <l>With Forty thouſand <hi>Mirmidons</hi> and Bills:</l>
+               <l>
+                  <hi>Aeneas</hi> firſt crys beat the Bulwarks down,</l>
+               <l>And entertain the <hi>Numen</hi> in the Town:</l>
+               <l>Down go the Walls, and down the <hi>Turrets</hi> go,</l>
+               <l>More than the <hi>Greeks</hi> in ten years Siege can do:</l>
+               <l>With eager haſte each other they prevent,</l>
+               <l>And Joy to be in part the Inſtrument</l>
+               <l>To introduce a new <hi>Religion</hi> here,</l>
+               <l>But little apprehend the flames ſo near.</l>
+            </lg>
+            <lg type="verse_paragraph">
+               <lg type="triplet">
+                  <l>
+                     <hi>Laocoon</hi> choſe for <hi>Neptunes</hi> Prieſt by Lot,</l>
+                  <l>(Though after Ages ſwore he was a Sot)</l>
+                  <l>Crys out, Look to your ſelves, it is a Plot;</l>
+               </lg>
+               <l>Beware O <hi>Troy,</hi> and <hi>Thou O King,</hi> beware:</l>
+               <l>For twiſted in one <hi>Thred</hi> your Fortunes are:</l>
+               <l>I ſaw the Conſult in <hi>Achilles</hi>'s <hi>Tent,</hi>
+               </l>
+               <l>And when <hi>Uliſſes</hi> into <hi>Ilium</hi> went,</l>
+               <l>I know <hi>Aeneas</hi> the <hi>Palladium</hi> ſold,</l>
+               <l>I ſaw the Writings, and I felt the Gold:</l>
+               <pb n="17" facs="tcp:48604:9"/>
+               <l>Shame on the Prieſt <hi>Aeneas</hi> Creatures cry'd,</l>
+               <l>And theſe Impoſſibilities deride:</l>
+               <l>Your fabulous Story does it ſelf deſtroy,</l>
+               <l>How cou'd you be at once in <hi>Greece</hi> and <hi>Troy?</hi>
+               </l>
+               <l>But your a Prieſt, and therefore nere ſpeak true:</l>
+               <l>Should we Believe <hi>Aeneas</hi> firſt or you?</l>
+               <l>Thus was the poor Apoſtle quite run down,</l>
+               <l>By all the Men of Arms and the long Gown:</l>
+               <lg type="triplet">
+                  <l>But that which did the vulgar moſt perſwade,</l>
+                  <l>Strange Monſters from beyond the Seas invade</l>
+                  <l>All thoſe that durſt preſume to give him aid</l>
+               </lg>
+               <l>Nay, when <hi>Antenors</hi> ſelf did interpoſe,</l>
+               <l>He muſt be counted one of <hi>Priams</hi> Foes:</l>
+               <l>Your Loyalty has formerly been ſhown,</l>
+               <l>Diſcovering other Plots to hide your own;</l>
+               <l>But that which makes the Miracle more great,</l>
+               <l>Ev'n <hi>Priams</hi> ſelf ſeems to promote the cheat:</l>
+               <l>He ſleeps ſupinely on his tottering Throne,</l>
+               <l>Glad by permiſſion to enjoy his own;</l>
+               <pb n="18" facs="tcp:48604:10"/>
+               <l>T'whom <hi>Troy</hi> for Ceremony does preſent</l>
+               <l>Her falſe <hi>Addreſſes</hi> to <hi>Aeneas</hi> meant:</l>
+               <l>Now ev'ry Theatre aſſumes his Name,</l>
+               <l>And the poor <hi>Regal</hi> Patronage diſclaim;</l>
+               <l>The Men of Arms, that ſet the King at nought,</l>
+               <l>Adore the <hi>General</hi> under whom they fought:</l>
+               <l>They fear our Peace, becauſe they thrive by War,</l>
+               <l>And in the Plunder of their Country ſhare:</l>
+               <l>With theſe the Prieſtly Tribe are of a peice;</l>
+               <l>For more preferment may be had in <hi>Greece.</hi>
+               </l>
+               <l>Some do <hi>Laocoon</hi> envy, ſome do hate;</l>
+               <l>But all the Holy Cowards fear his Fate,</l>
+               <lg type="triplet">
+                  <l>Againſt theſe Torrents that come on amain,</l>
+                  <l>In vain the wiſeſt Citizens complain:</l>
+                  <l>And poor <hi>Caſſandra</hi> propheſies in vain:</l>
+               </lg>
+               <l>For perjur'd <hi>Sinon</hi> that to <hi>Troy</hi> was come,</l>
+               <l>Pretending Injuries receiv'd at home,</l>
+               <l>At firſt was by <hi>Aeneas</hi> Favour Grac'd</l>
+               <l>And fatally by <hi>Priams</hi> ſelf embrac'd;</l>
+               <pb n="19" facs="tcp:48604:10"/>
+               <l>Who wears the Golden Key upon his breaſt,</l>
+               <l>That from the Horſe the numerous hoſt releas'd.</l>
+               <l>Now <hi>Troy</hi>'s no more, and wretched <hi>Priam</hi> dyes,</l>
+               <l>His Subjects Martyrs, he a Sacrifice;</l>
+               <l>To the old Market place the crouds retire,</l>
+               <l>And periſh there by undiſtinguiſht Fire:</l>
+               <l>The beautiful <hi>Polixena</hi> muſt dye,</l>
+               <l>T'appeaſe a Curſed Loving Enemy;</l>
+               <l>
+                  <hi>Andromache</hi> muſt into <hi>Greece</hi> be Led,</l>
+               <l>And Captive touch a conquering Tyrants Bed;</l>
+               <l>But never of your Deſtiny complain,</l>
+               <l>For <hi>Hectors</hi> Widdow ev'n in <hi>Greece</hi> may reign.</l>
+               <lg type="triplet">
+                  <l>But as the <hi>Tumult</hi> to the height did grow,</l>
+                  <l>
+                     <hi>Antenor</hi> did eſcape we know not how;</l>
+                  <l>Although all <hi>Greece</hi> by Compact was his Foe,</l>
+               </lg>
+               <l>
+                  <hi>Aeneas</hi> ſafe through <hi>Ilium</hi>'s Ruins goes,</l>
+               <l>Not the firſt Murderer fear'd ſo many Foes;</l>
+               <l>Ev'n <hi>Neptunes</hi> ſelf his Enemy of late,</l>
+               <l>Endeavour'd to divert the Courſe of Fate;</l>
+               <pb n="20" facs="tcp:48604:11"/>
+               <l>And to revenge the Walls he favour'd moſt,</l>
+               <l>Shipwrack't the <hi>Traytor</hi> on the <hi>Lybyan</hi> Coaſt:</l>
+               <lg type="triplet">
+                  <l>'Twas from this Land he got his Love miſhap,</l>
+                  <l>But after ſleeping in fair <hi>Dido</hi>'s Lap,</l>
+                  <l>Who coud have Dreamt of ſuch an After-Clap?</l>
+               </lg>
+               <l>From hence to <hi>Rome</hi> the Miſcreant Exile flys,</l>
+               <l>Depending moſt upon his Enemies;</l>
+               <l>His promis'd Empire he demands of Fate,</l>
+               <l>Neither regarding Subjects Love nor Hate:</l>
+               <l>Can Providence and ſuch Injuſtice be?</l>
+               <l>No, Heav'n it ſelf repents its own Decree:</l>
+               <l>
+                  <hi>Jove</hi> therefore by the <hi>Stygian</hi> Torrent ſwore,</l>
+               <l>No Traytor ere ſhoud find ſuch Fortune more.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48604:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
